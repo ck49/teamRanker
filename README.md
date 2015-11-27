@@ -1,0 +1,2 @@
+# teamRanker
+The goal of this project is to allow people to make simple decision comparing two things and after a while end up with their person set of preferences, or rankings. Later hopefully we could get it to compile multiple users' data. Inspired by fio4ri's pokemon ranker and Dallas News' blind college football resume poll. This was created for college football but could be implemented for any number of things.
